@@ -10,7 +10,7 @@ import './styles/pages.css';
 
 export default function App() {
   return (
-    <BrowserRouter basename="/Cakery">
+    <BrowserRouter>
       <div className="app">
         <Navbar />
         <main>
