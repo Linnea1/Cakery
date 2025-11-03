@@ -1,0 +1,45 @@
+.footer {
+  background-color: #012622;
+  color: white;
+  padding: 0.5rem 0;
+  margin-top: auto; /* push footer to bottom */
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-links {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  color: white;
+  opacity: 0.9;
+  transition: opacity 180ms ease;
+}
+
+.social-links a:hover {
+  opacity: 1;
+}
+
+.copyright {
+  font-size: 0.875rem;
+  opacity: 0.9;
+}
+
+/* Make footer stack on mobile */
+@media (max-width: 480px) {
+  .footer-inner {
+    flex-direction: column;
+    gap: 1.5rem;
+    text-align: center;
+  }
+}
