@@ -1,56 +1,56 @@
 [
   {
     "id": "1",
-    "img": "/src/assets/images/cakes/1.jpg",
+    "img": "/images/cakes/1.jpg",
     "title": "Red Velvet Cake",
     "description": "Light vanilla cake layered with whipped cream and fresh seasonal berries.",
     "price": 34.0
   },
   {
     "id": "2",
-    "img": "/src/assets/images/cakes/2.jpg",
+    "img": "/images/cakes/2.jpg",
     "title": "Vanilla Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0
   },
   {
     "id": "3",
-    "img": "/src/assets/images/cakes/3.jpg",
+    "img": "/images/cakes/3.jpg",
     "title": "Orange & Lemon Cake",
     "description": "Rich dark chocolate sponge layered with silky chocolate ganache and finished with chocolate shavings.",
     "price": 29.5
   },
   {
     "id": "4",
-    "img": "/src/assets/images/cakes/4.jpg",
+    "img": "/images/cakes/4.jpg",
     "title": "Strawberry Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0
   },
   {
     "id": "5",
-    "img": "/src/assets/images/cakes/5.jpg",
+    "img": "/images/cakes/5.jpg",
     "title": "Chocolate Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0
   },
   {
     "id": "6",
-    "img": "/src/assets/images/cakes/6.jpg",
+    "img": "/images/cakes/6.jpg",
     "title": "Walnut and Plum Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0
   },
   {
     "id": "7",
-    "img": "/src/assets/images/cakes/7.jpg",
+    "img": "/images/cakes/7.jpg",
     "title": "Poppy and Lemon Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0
   },
   {
     "id": "8",
-    "img": "/src/assets/images/cakes/8.jpg",
+    "img": "/images/cakes/8.jpg",
     "title": "Summer Cake",
     "description": "Moist red velvet cake with a tangy cream cheese frosting and a dusting of cocoa.",
     "price": 32.0

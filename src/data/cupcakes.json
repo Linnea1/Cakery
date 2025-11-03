@@ -1,56 +1,56 @@
 [
   {
     "id": "1",
-    "img": "/src/assets/images/cupcakes/1.jpg",
+    "img": "/images/cupcakes/1.jpg",
     "title": "Ferrero Rocher Cupcake",
     "description": "Classic vanilla cupcake topped with a swirl of buttercream and sprinkles.",
     "price": 3.5
   },
   {
     "id": "2",
-    "img": "/src/assets/images/cupcakes/2.jpg",
+    "img": "/images/cupcakes/2.jpg",
     "title": "Chocolate Fudge Cupcake",
     "description": "Moist chocolate cupcake with a rich fudge frosting and chocolate curls.",
     "price": 3.75
   },
   {
     "id": "3",
-    "img": "/src/assets/images/cupcakes/3.jpg",
+    "img": "/images/cupcakes/3.jpg",
     "title": "Rasberry Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
   },
   {
     "id": "4",
-    "img": "/src/assets/images/cupcakes/4.jpg",
+    "img": "/images/cupcakes/4.jpg",
     "title": "Pumpkin Spice Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
   },
   {
     "id": "5",
-    "img": "/src/assets/images/cupcakes/5.jpg",
+    "img": "/images/cupcakes/5.jpg",
     "title": "Festive Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
   },
   {
     "id": "6",
-    "img": "/src/assets/images/cupcakes/6.jpg",
+    "img": "/images/cupcakes/6.jpg",
     "title": "Halloween Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
   },
   {
     "id": "7",
-    "img": "/src/assets/images/cupcakes/7.jpg",
+    "img": "/images/cupcakes/7.jpg",
     "title": "Apple Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
   },
   {
     "id": "8",
-    "img": "/src/assets/images/cupcakes/8.jpg",
+    "img": "/images/cupcakes/8.jpg",
     "title": "Blackberry Cupcake",
     "description": "Tender red velvet cupcake with cream cheese frosting, perfect for parties.",
     "price": 3.95
