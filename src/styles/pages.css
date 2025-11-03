@@ -23,7 +23,6 @@
   z-index: 3;
 }
 
-/* Menu page specific styles */
 .menu-grid {
   display: grid;
   gap: 2rem;
